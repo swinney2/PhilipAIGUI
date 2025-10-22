@@ -1,4 +1,4 @@
-# Twitch Bot Command Generator
+# PhillipAI Twitch Bot Command Generator
 
 A GUI application for generating bot commands for x_pilot's Twitch chat.
 
