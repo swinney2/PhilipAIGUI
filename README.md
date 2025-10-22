@@ -13,9 +13,9 @@ A GUI application for generating bot commands for x_pilot's Twitch chat.
 ## For End Users (Simple)
 
 **Just download and run the executable:**
-1. Download `TwitchBotCommandGen.exe` from the releases
-2. Double-click the .exe file to run the program
-3. No installation or setup required!
+1. Download `PhillipUI.exe` from the releases
+3. Double-click the .exe file to run the program
+4. No installation or setup required!
 
 ## For Developers
 
