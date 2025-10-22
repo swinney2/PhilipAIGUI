@@ -598,7 +598,6 @@ class TwitchBotGUI:
         command = self.generated_command.get()
         if command:
             pyperclip.copy(command)
-            messagebox.showinfo("Copied!", f"Command '{command}' copied to clipboard!")
         else:
             messagebox.showwarning("No Command", "Please select both difficulty and character first.")
     
@@ -616,7 +615,6 @@ class TwitchBotGUI:
         command = self.play_command.get()
         if command:
             pyperclip.copy(command)
-            messagebox.showinfo("Copied!", f"Command '{command}' copied to clipboard!")
         else:
             messagebox.showwarning("No Connect Code", "Please enter your connect code first.")
 
