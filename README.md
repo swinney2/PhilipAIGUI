@@ -8,7 +8,6 @@ A GUI application for generating bot commands for x_pilot's Twitch chat.
 - **Character Selection**: Select from available characters for each difficulty
 - **Command Generation**: Automatically generates `!agent difficulty-character` commands
 - **Copy to Clipboard**: One-click copying of generated commands
-- **Modern UI**: Clean, dark-themed interface optimized for Twitch streaming
 
 ## For End Users (Simple)
 
